@@ -5,7 +5,7 @@ is_featured: true
 profile_img:
     - src: profile-image.jpg
       alt: Tanner Dolby smiling and holding a water bottle in his right hand
-social_media:
+web_links:
     - name: GitHub
       url: https://github.com/tannerdolby
     - name: Twitter
