@@ -1,10 +1,17 @@
-# Tanner Dolby
-
-- [GitHub](https://github.com/tannerdolby)
-- [Twitter](https://twitter.com/tannerdolby)
-
-![Tanner Dolby smiling and holding a water bottle in his right hand](./profile-image.jpg)
-
+---
+contributor_name: Tanner Dolby
+folder_name: tanner-dolby
+is_featured: true
+profile_img:
+    - src: profile-image.jpg
+      alt: Tanner Dolby smiling and holding a water bottle in his right hand
+social_media:
+    - name: GitHub
+      url: https://github.com/tannerdolby
+    - name: Twitter
+      url: https://twitter.com/tannerdolby
+quote: I contribute to MDN because our community is a welcoming and exciting group of people who are passionate about helping build a better Web.
+---
 ## About Tanner Dolby
 
 Hi, I’m Tanner. I have a background in Mathematics and a passion for technology. I’ve been working as a Software Engineer for a little over one year and started contributing to open source about two years ago. I’m a self-taught programmer and love building things for the Web. Outside of contributing to open source, I like skateboarding, photography, and illustration.
@@ -26,5 +33,3 @@ I like many things about the MDN Web Docs site, to name a few:
 Contributions to MDN are important because it helps to provide a reliable and accessible
 source of information on the Web for developers. MDN Web Docs being open source allows for
 bugs to quickly be spotted by contributors and for feature requests to be readily prototyped. I continue to contribute to MDN because it’s a welcoming and exciting group of people who are passionate about helping build a better Web. Building in the open creates an environment that allows for contributors from all over the world to help make MDN a better resource and that is incredible.
-
-> I contribute to MDN because our community is a welcoming and exciting group of people who are passionate about helping build a better Web.
