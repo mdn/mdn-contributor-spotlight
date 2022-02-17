@@ -2,9 +2,7 @@
 contributor_name: Tanner Dolby
 folder_name: tanner-dolby
 is_featured: true
-profile_img:
-    - src: profile-image.jpg
-      alt: Tanner Dolby smiling and holding a water bottle in his right hand
+img_alt: Tanner Dolby smiling and holding a water bottle in his right hand
 web_links:
     - name: GitHub
       url: https://github.com/tannerdolby
