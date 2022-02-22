@@ -3,11 +3,9 @@ contributor_name: Tanner Dolby
 folder_name: tanner-dolby
 is_featured: true
 img_alt: Tanner Dolby smiling and holding a water bottle in his right hand
-web_links:
-    - name: GitHub
-      url: https://github.com/tannerdolby
-    - name: Twitter
-      url: https://twitter.com/tannerdolby
+usernames:
+  github: tannerdolby
+  twitter: tannerdolby
 quote: I contribute to MDN because our community is a welcoming and exciting group of people who are passionate about helping build a better Web.
 ---
 ## About Tanner Dolby
