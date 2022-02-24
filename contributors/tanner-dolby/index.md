@@ -8,8 +8,6 @@ usernames:
   twitter: tannerdolby
 quote: I contribute to MDN because our community is a welcoming and exciting group of people who are passionate about helping build a better Web.
 ---
-## About Tanner Dolby
-
 Hi, I’m Tanner. I have a background in Mathematics and a passion for technology. I’ve been working as a Software Engineer for a little over one year and started contributing to open source about two years ago. I’m a self-taught programmer and love building things for the Web. Outside of contributing to open source, I like skateboarding, photography, and illustration.
 
 ## How did you start using MDN?
