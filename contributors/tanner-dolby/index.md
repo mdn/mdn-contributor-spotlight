@@ -22,7 +22,7 @@ I like many things about the MDN Web Docs site, to name a few:
 - Overall styling and typography of the site is very user-friendly and the content is accessible which creates an enjoyable user experience.
 - Everytime I visit a docs page, I know that I can trust the content is up-to-date and has been checked by contributors and project maintainers.
 
-## Why you contribute
+## Why do you contribute?
 
 Contributions to MDN are important because it helps to provide a reliable and accessible
 source of information on the Web for developers. MDN Web Docs being open source allows for
