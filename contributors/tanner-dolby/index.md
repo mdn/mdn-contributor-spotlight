@@ -1,7 +1,7 @@
 ---
 contributor_name: Tanner Dolby
 folder_name: tanner-dolby
-is_featured: true
+is_featured: false
 img_alt: Tanner Dolby smiling and holding a water bottle in his right hand
 usernames:
   github: tannerdolby
