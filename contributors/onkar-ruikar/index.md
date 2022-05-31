@@ -1,7 +1,7 @@
 ---
 contributor_name: Onkar Ruikar
 folder_name: onkar-ruikar
-is_featured: true
+is_featured: false
 img_alt: Onkar standing in the bushveld wearing a red short-sleeve shirt and long camo-pants.
 usernames:
   github: OnkarRuikar
