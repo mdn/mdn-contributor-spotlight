@@ -1,7 +1,7 @@
 ---
 contributor_name: Queen Vinyl Da.i'gyu-Kazotetsu
 folder_name: vinyl-da-i-gyu-kazotetsu
-is_featured: true
+is_featured: false
 img_alt: A graphic of a friendly looking purple fantasy dragon with two horns, a diamond crown, and orange eyes.
 usernames:
   github: queengooborg
@@ -22,6 +22,6 @@ I love the fundamental concept of MDN Web Docs, that is, to bring knowledge to a
 
 ## Why do you contribute?
 
-My contributions to MDN Web Docs began in 2018, when the compatibility tables were migrating into their own machine-readable project, browser-compat-data (BCD).  At first, I contributed as a way to remain productive in between the work on my own websites, but I quickly found my contributions increasing and my interest in the project growing. 
+My contributions to MDN Web Docs began in 2018, when the compatibility tables were migrating into their own machine-readable project, browser-compat-data (BCD). At first, I contributed as a way to remain productive in between the work on my own websites, but I quickly found my contributions increasing and my interest in the project growing.
 
 Eventually, I found myself contributing more to BCD than my personal projects. The satisfaction of contributing to a project that is much bigger than myself as an individual drove me back then, as it does now. To know that the work I am doing positively impacts so many brings me great joy.
