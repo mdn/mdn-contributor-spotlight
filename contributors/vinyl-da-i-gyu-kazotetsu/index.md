@@ -1,7 +1,7 @@
 ---
 contributor_name: Queen Vinyl Da.i'gyu-Kazotetsu
 folder_name: vinyl-da-i-gyu-kazotetsu
-is_featured: true
+is_featured: false
 img_alt: A graphic of a friendly looking purple fantasy dragon with two horns, a diamond crown, and orange eyes.
 usernames:
   github: queengooborg
