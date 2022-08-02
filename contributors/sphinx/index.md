@@ -1,7 +1,7 @@
 ---
 contributor_name: SphinxKnight
 folder_name: sphinx
-is_featured: true
+is_featured: false
 img_alt: A young white male with short brown hair, wearing a scarf around his neck. Behind him is a mountain peak, with white clouds dotting a blue sky.
 usernames:
   github: SphinxKnight
