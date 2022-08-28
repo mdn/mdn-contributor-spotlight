@@ -1,7 +1,7 @@
 ---
 contributor_name: Carolyn Wu
 folder_name: cw118
-is_featured: true
+is_featured: false
 img_alt: A circular graphic with the open source logo faded in the background, binary numbers overlayed with green light trails in the foreground.
 usernames:
   github: cw118
