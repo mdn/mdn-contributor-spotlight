@@ -1,7 +1,7 @@
 ---
 contributor_name: Michał Niedziółka
 folder_name: niedziolka-michal
-is_featured: true
+is_featured: false
 img_alt: A realistic, stylized wolf head in shades of brown
 usernames:
   github: NiedziolkaMichal
