@@ -1,7 +1,7 @@
 ---
 contributor_name: Michael Koch
 folder_name: michael-koch
-is_featured: true
+is_featured: false
 img_alt: A young caucasian male shown from the shoulders up. He has blue eyes, a long blond beard and a light grey shirt.
 usernames:
   github: mikoMK
