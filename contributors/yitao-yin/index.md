@@ -12,7 +12,7 @@ Hi, I'm YiTao Yin, a graduate student in the Software Engineering program from C
 
 ## How did you start using MDN?
 
-When I first wrote some HTML with VS Code, I noticed built-in help references MDN Web Docs API docs. I was curious about it and started to read some articles. Then I found that MDN Web Docs is an open-source project, and we can conveniently improve the documentation. I started contributing to the project, from fixing typos to translating articles.
+When I first wrote some HTML with VS Code, I noticed built-in help references MDN's web API docs. I was curious about it and started to read some articles. Then I found that MDN Web Docs is an open-source project, and we can conveniently improve the documentation. I started contributing to the project, from fixing typos to translating articles.
 
 ## What do you like about the website?
 
