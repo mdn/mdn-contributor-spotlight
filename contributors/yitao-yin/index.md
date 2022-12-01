@@ -1,7 +1,7 @@
 ---
 contributor_name: YiTao Yin
 folder_name: yitao-yin
-is_featured: true
+is_featured: false
 img_alt: A young asian male shown from the hips up. He has dark hair and is wearing a long sleeve dark blue shirt. Behind him is a misty lake and some trees.
 usernames:
   github: yin1999
