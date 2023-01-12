@@ -8,4 +8,4 @@ jobs:
   mark-as-idle:
     uses: mdn/workflows/.github/workflows/idle.yml@main
     with:
-      target-repo: "mdn/express-locallibrary-tutorial"
+      target-repo: "mdn/mdn-contributor-spotlight"
