@@ -1,7 +1,7 @@
 ---
 contributor_name: Yuji
 folder_name: yuji
-is_featured: true
+is_featured: false
 img_alt: A light brown plush baby kangaroo.
 usernames:
   github: YujiSoftware
