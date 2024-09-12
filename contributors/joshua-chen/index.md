@@ -1,7 +1,7 @@
 ---
 contributor_name: Joshua Chen
 folder_name: joshua-chen
-is_featured: true
+is_featured: false
 img_alt: A man seated at a table, smiling and giving a thumbs up beside a cake with lit candles on them.
 usernames:
   github: Josh-Cena
