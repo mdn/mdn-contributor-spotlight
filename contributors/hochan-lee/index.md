@@ -1,7 +1,7 @@
 ---
 contributor_name: HoChan Lee
 folder_name: hochan-lee
-is_featured: true
+is_featured: false
 img_alt: A person down a quiet road under the night sky, illuminated by faint streetlights.
 usernames:
   github: hochan222
