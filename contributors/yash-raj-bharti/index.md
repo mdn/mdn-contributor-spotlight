@@ -35,3 +35,4 @@ Anything open source is where we can ask "why should we not contribute"? There's
 ## What do you enjoy about contributing to MDN?
 
 I loved making `DOMQuad` as I was learning first hand and I believe I will become an encyclopedia as a by-product of helping others! That's rad.
+
