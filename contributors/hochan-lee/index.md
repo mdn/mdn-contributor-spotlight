@@ -1,7 +1,7 @@
 ---
 contributor_name: HoChan Lee
 folder_name: hochan-lee
-is_featured: true
+is_featured: false
 img_alt: A person down a quiet road under the night sky, illuminated by faint streetlights.
 usernames:
   github: hochan222
@@ -32,4 +32,5 @@ To address this, I gathered a team, submitted a proposal, and reached out to MDN
 
 What captivates me the most is how interacting with diverse people broadens my perspective. MDN Web Docs is open-source and accessible to everyone, fostering an inclusive environment. Through tackling various issues on MDN, I’ve had the chance to connect with people worldwide and learn best practices in open source.
 
-There are limits to what you can achieve alone, and it’s impossible to do everything yourself. In a community, we can build together. We learn to respect each other's contributions, share our thoughts, and figure out how to move forward collectively. Early in the ko-locale, one of our key focuses was creating guides to make participation easy for everyone.
+There are limits to what you can achieve alone, and it's impossible to do everything yourself. In a community, we can build together. We learn to respect each other's contributions, share our thoughts, and figure out how to move forward collectively. Early in the ko-locale, one of our key focuses was creating guides to make participation easy for everyone.
+
