@@ -5,7 +5,7 @@ is_featured: true
 img_alt: A family selfie taken at night on a city street decorated with holiday lights.  The street behind them is softly lit with festive lights and passing cars.
 usernames:
   github: Shrinivassab
-quote: MDN maintains W3C standards which helps me keep up with important topics. It is a complete package as it caters to everything; from complex APIs and new browser functionalities, to validating practices. MDN serves as a hidden valuable resource and continues to assist me in my everyday development.
+quote: MDN closely follows W3C standards which helps me keep up with important topics. It's a complete package as it caters to everything; complex APIs, new browser functionalities, and best practices. MDN serves as a truly valuable resource and continues to assist me in my everyday development.
 ---
 
 My name is Shrinivass Arunachalam Balasubramanian and I am from Boston, MA, USA, working as a Senior Full Stack Engineer at Fidelity Investments. I have been contributing to MDN Web Docs for over a year, diving into documentation updates like the `:has()` selector performance tips and `DOMContentLoaded` clarifications etc. My areas of passion are front-end optimization, AI web tools, and ethical tech. This is evident in my open source project reactive-lint (over 500 downloads) as well as my IEEE I2ITCON 2025 Best Paper Award for “GovernAI.” My 9+ industry experience also includes significant time with Angular, React, and Node.js at Nielsen and In4mation Insights. I enjoy dancing (Free styles) and playing tennis, which keep me energized and balanced. My journey from a rural Indian village to a Master’s at UMass Dartmouth (2016) inspires my pursuit to make technology impactful and accessible around the world.
