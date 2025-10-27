@@ -2,7 +2,7 @@
 contributor_name: Shrinivass Arunachalam Balasubramanian
 folder_name: shrinivass-arunachalam-balasubramanian
 is_featured: true
-img_alt: A family selfie taken at night on a city street decorated with holiday lights. A woman wearing a white knit cap and black scarf smiles at the camera, while a man in glasses and a dark winter jacket holds a young child dressed in a colorful hooded coat and gloves. The street behind them is softly lit with festive lights and passing cars.
+img_alt: A family selfie taken at night on a city street decorated with holiday lights.  The street behind them is softly lit with festive lights and passing cars.
 usernames:
   github: Shrinivassab
 quote: MDN maintains W3C standards which helps me keep up with important topics. It is a complete package as it caters to everything; from complex APIs and new browser functionalities, to validating practices. MDN serves as a hidden valuable resource and continues to assist me in my everyday development.
