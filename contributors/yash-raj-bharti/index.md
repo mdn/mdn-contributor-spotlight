@@ -1,7 +1,7 @@
 ---
 contributor_name: Yash Raj Bharti
 folder_name: yash-raj-bharti
-is_featured: true
+is_featured: false
 img_alt: A person standing next to a colorful graffiti-painted Android statue, with the Google headquarters in the background. The person is wearing a lanyard on a sunny day.
 usernames:
   github: yashrajbharti
@@ -35,4 +35,3 @@ Anything open source is where we can ask "why should we not contribute"? There's
 ## What do you enjoy about contributing to MDN?
 
 I loved making `DOMQuad` as I was learning first hand and I believe I will become an encyclopedia as a by-product of helping others! That's rad.
-
