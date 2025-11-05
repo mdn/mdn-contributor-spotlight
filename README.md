@@ -24,21 +24,21 @@ To test the Contributor Spotlight pages on your local setup:
 
 2. Clone both repositories into the same parent folder so your structure looks like this:
 
-   ```
+   ```shell
    ./content
    ./mdn-contributor-spotlight
    ```
 
 3. In the `content` repository, add the `CONTRIBUTOR_SPOTLIGHT_ROOT` environment variable to the `.env` file:
 
-   ```
+   ```shell
    cd content
    echo "CONTRIBUTOR_SPOTLIGHT_ROOT=../mdn-contributor-spotlight/contributors" >> .env
    ```
 
 4. Install dependencies and start the local server
 
-   ```
+   ```shell
    yarn && yarn start
    ```
 
