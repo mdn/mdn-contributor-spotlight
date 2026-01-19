@@ -1,5 +1,12 @@
 import { readFile } from "node:fs/promises";
 
+const RESET = "\x1b[0m";
+const bold = (text) => `\x1b[1m${text}${RESET}`;
+const italic = (text) => `\x1b[3m${text}${RESET}`;
+// key/value colors from Firefox JSON Viewer.
+const key = (text) => `\x1b[38;2;37;136;235m${text}${RESET}`;
+const value = (text) => `\x1b[38;2;221;0;169m${text}${RESET}`;
+
 /**
  * Report build issues for contributor spotlight files.
  *
@@ -31,14 +38,14 @@ export async function reportIssues({ core, issuesPath, filesPath }) {
       } = Object.fromEntries(issue.fields);
 
       const payload = Object.entries(otherFields)
-        .map(([key, value]) => `\x1b[38;2;37;136;235m${key}\x1b[0m: \x1b[38;2;221;0;169m${value}\x1b[0m`)
+        .map(([k, v]) => `${key(k)}: ${value(v)}`)
         .join(" • ");
 
-      const message = source ? `\x1b[3m(${source})\x1b[0m ${payload}` : payload;
+      const message = source ? `${italic(`(${source})`)} ${payload}` : payload;
       messages.push(message);
     }
 
-    const message = `Found \x1b[1m${issues.length}\x1b[0m issue(s) in \x1b[1m${file}\x1b[0m:\n${messages.map(m => `${m}`).join("\n")}`;
+    const message = `Found ${bold(issues.length)} issue(s) in ${bold(file)}:\n${messages.join("\n")}`;
     core.warning(message, { file });
   }
 };
